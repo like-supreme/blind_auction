@@ -23,8 +23,11 @@ This project is a beginner-level Python project, ideal for practicing:
 ## 🗂️ Project Structure
 
 ```bash
-├── main.py   # Main auction logic
-├── art.py    # Contains ASCII logo displayed at the start
+
+├── blind_auction
+│   ├── main.py
+│   └── art.py
+│   └── pycache
 Clone the repository:
 git clone https://github.com/like-supreme/blind_auction.git
 
