@@ -26,7 +26,8 @@ This project is a beginner-level Python project, ideal for practicing:
 ├── main.py   # Main auction logic
 ├── art.py    # Contains ASCII logo displayed at the start
 Clone the repository:
-git clone https://github.com/your-username/blind-auction.git
+git clone https://github.com/like-supreme/blind_auction.git
+
 cd blind-auction
 run the python main.py
 ====================================================================
